@@ -17,3 +17,15 @@ frontend/build/
 # OS / Editor
 .DS_Store
 .vscode/
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# ML artifacts
+*.pkl
+
+# Datasets
+backend/data/
