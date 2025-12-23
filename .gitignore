@@ -1,0 +1,19 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# ML artifacts
+backend/artifacts/
+*.pkl
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+
+# Environment files
+.env
+
+# OS / Editor
+.DS_Store
+.vscode/
